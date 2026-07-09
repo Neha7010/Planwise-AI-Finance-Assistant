@@ -123,9 +123,3 @@ streamlit run app.py
 
 
 
-## 👩‍💻 Author
-
-**Neha Kurian**
-
-GitHub: https://github.com/Neha7010
-```
