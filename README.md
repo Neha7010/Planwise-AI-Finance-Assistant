@@ -96,17 +96,15 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-### Home Screen
+### Chat Interface
 
-> *(Add your first screenshot here)*
 
 ![Home Screen](assets/screenshot1.png)
 
 ---
 
-### Chat Interface
+### Chatbot response
 
-> *(Add your second screenshot here)*
 
 ![Chat Interface](assets/screenshot2.png)
 
